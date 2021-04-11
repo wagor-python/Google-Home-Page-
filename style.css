@@ -1,0 +1,116 @@
+div.Google {
+  margin-top: 35px;
+  margin-bottom: 49px;
+  padding: 37px 40px;
+  padding-top: 109px;
+  height: 39px;
+  width: auto;
+  text-align: center;
+}
+
+div.fb {
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+
+div.fb form {
+  height: 50px;
+}
+
+div.fb input {
+  background-color: #ffffff8f;
+  border-radius: 30px;
+  padding: 15px;
+  width: 490px;
+  border: 1px solid #d3cbcb8f;
+  -webkit-box-shadow: #affa00;
+          box-shadow: #affa00;
+}
+
+div.fb button:hover {
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  background-image: -webkit-linear-gradient(top, #f8f8f8, #f1f1f1);
+  background-color: #f8f8f8;
+  border: 1px solid #c6c6c6;
+  color: #222;
+}
+
+div.fb button#two {
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  border-radius: 4px;
+  color: #5F6368;
+  font-family: arial,sans-serif;
+  font-size: 14px;
+  margin: 11px 4px;
+  padding: 0 16px;
+  line-height: 27px;
+  height: 36px;
+  min-width: 54px;
+  text-align: center;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+section {
+  cursor: pointer;
+}
+
+section .topnav-right {
+  float: right;
+  font-style: normal;
+  font-size: 13px;
+  font-family: arial, sans-serif;
+  font-weight: 40px;
+  line-height: 1px;
+  color: black;
+  margin: 6px;
+  margin-top: -19px;
+  line-height: 24px;
+  vertical-align: middle;
+}
+
+section .topnav-right :hover {
+  color: rgba(82, 71, 71, 0.87);
+  -webkit-text-decoration: underline solid black;
+          text-decoration: underline solid black;
+}
+
+section div.icon {
+  float: right;
+  color: rgba(82, 71, 71, 0.87);
+  margin: 9px;
+  margin-top: -19px;
+  line-height: 24px;
+  display: block;
+  white-space: middle;
+  width: 30px;
+  height: 30px;
+}
+
+section div.icon :hover {
+  color: black;
+}
+
+section div.profile {
+  float: right;
+  width: 32px;
+  display: block;
+  text-align: left;
+  white-space: nowrap;
+  height: 32px;
+  padding-right: 20px;
+}
+
+section div.profile img {
+  border-radius: 50%;
+  margin-top: -50px;
+  border-top: 50%;
+  padding: 4px;
+  z-index: 0;
+}
+/*# sourceMappingURL=style.css.map */
